@@ -1,5 +1,6 @@
 # NPD_Scripts
 Scripts to help parse data from the National Public Data breach.
+All were generated with ChatGPT - Not written by me.
 
 # Contents
 - Extract_SingleState.py - Extracts a single state, change the script to your target state.
