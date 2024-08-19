@@ -1,5 +1,5 @@
 # NPD_Scripts
-Scripts to help parse data from the National Public Data breach.
+A collection to help parse data from the National Public Data breach.
 All were generated with ChatGPT - Not written by me.
 
 # Contents
